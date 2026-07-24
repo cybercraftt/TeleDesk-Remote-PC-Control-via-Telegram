@@ -70,7 +70,7 @@ Single Instance Lock: Блокировка повторного запуска �
 
 🛠️ Установка и запуск из исходного кода
 1. Клонирование репозитория
-git clone (https://github.com/cybercraftt/TeleDesk.git)
+git clone ([https://github.com/cybercraftt/TeleDesk.git](https://github.com/cybercraftt/TeleDesk-Remote-PC-Control-via-Telegram))
 cd TeleDesk
 
 2. Установка зависимостей
